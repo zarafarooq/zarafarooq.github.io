@@ -1029,13 +1029,17 @@ img.post-image, img.page-img {
     width: 100%;
     text-align: center;
   }
+  
+  .sidebar-menu li {
+    display: inline-block;
+  }
 
   .content {
     margin: 0 auto;
   }
 
   .sidebar-logo, .sidebar-menu {
-    margin-bottom: 3rem;
+    margin-bottom: 0;
   }
 }
 @media screen and (max-width: 360px) {
