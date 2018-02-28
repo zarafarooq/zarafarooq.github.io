@@ -1,14 +1,25 @@
 ---
 layout: post
-title:  "Our Crew"
+title:  "Zara & Hannah"
 date:   2017-03-30 00:00:00
-img: house.jpg
-description: We value diversity in everything we do - that's why we've assembled a diverse group of students and Tech affiliates for our campaign team. We're interested in representing the wide array of majors, clubs, and other activities that take place on campus. Meet our campaign crew after the jump.
+img: banner.png
+description:
 ---
 
-We value diversity in everything we do - that's why we've assembled a diverse group of students and Tech affiliates for our campaign team. We're interested in representing the wide array of majors, clubs, and other activities that take place on campus. Meet our campaign crew below.
+We are shaking the idea that you have to be involved in SGA to represent the student body.
+Given the amount of engagement that the student body has shown with SGA this past year, I think it’s naive to say that SGA can accurately represent the student body.
+We’re not a part of SGA; We’re a part of the student body. We’re not here to represent SGA; We’re here to represent you.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-This is House. He's an MD.
+<img style="float: left; margin-right: 10px;" src="/assets/img/zaraprofilepic.png">
 
+Zara is...
+
+<img style="float: left; margin-right: 10px;" src="/assets/img/hannahprofilepic.png">
+
+Hannah is...
+
+
+
+Candidates from SGA, year after year, talk about all the things they will “do” when they’re in office. And year after year, not much actually gets done.
+Our platform is simple. Our platform is accomplishable.

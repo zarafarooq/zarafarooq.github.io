@@ -92,6 +92,7 @@ a {
   background-color: transparent;
   /* 1 */
   -webkit-text-decoration-skip: objects;
+  font-family: 'OratorStd', monospace;
   /* 2 */
 }
 
@@ -727,7 +728,7 @@ template {
 
 html {
   line-height: 1.5;
-  font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 @media screen and (min-width: 500px) {
@@ -792,7 +793,7 @@ pre code {
 }
 
 .sidebar {
-  background-color: #2d2a2a;
+  background-color: rgb(37, 20, 77);
   position: fixed;
   top: 0;
   left: 0;
@@ -812,6 +813,7 @@ pre code {
 .sidebar-menu .menu-links {
   font-size: 1.2rem;
   text-transform: uppercase;
+  font-family: 'OratorStd', monospace;
   display: block;
   text-decoration: none;
   padding: 1rem 1.3rem;
@@ -823,8 +825,8 @@ pre code {
 .sidebar-menu .menu-links:hover {
   -webkit-transform: translateY(3px);
           transform: translateY(3px);
-  background-color: #15F3A8;
-  color: #515151;
+  background-color: rgb(255, 189, 11);
+  color: rgb(37, 20, 77);
 }
 
 .sidebar-container {
@@ -846,11 +848,11 @@ pre code {
 }
 
 .sidebar-logo .logo {
-  font-family: 'Finger Paint', cursive;
-  color: #15F3A8;
+  font-family: 'streamster', monospace;
+  color: rgb(255, 189, 11);
   text-transform: uppercase;
   text-decoration: none;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 700;
 }
 
@@ -897,27 +899,28 @@ pre code {
   padding: 1rem;
 }
 .main-article .title-article, .main-article .page-title, .main-article .post-title, .page-article .title-article, .page-article .page-title, .page-article .post-title, .post .title-article, .post .page-title, .post .post-title {
-  font-family: 'Finger Paint', cursive;
+  font-family: 'OratorStd', monospace;
   margin-bottom: 0;
   -webkit-transition: all .3s;
   transition: all .3s;
-  color: #15F3A8;
+  color: rgb(37, 20, 77);
   font-size: 2.5rem;
   margin-top: 0.67rem;
 }
 .main-article .title-article a, .main-article .page-title a, .main-article .post-title a, .page-article .title-article a, .page-article .page-title a, .page-article .post-title a, .post .title-article a, .post .page-title a, .post .post-title a {
-  color: #15F3A8;
+  font-family: 'OratorStd', sans-serif;
+  color: rgb(37, 20, 77);
   text-decoration: none;
 }
 .main-article .post-date span, .main-article .page-date span, .page-article .post-date span, .page-article .page-date span, .post .post-date span, .post .page-date span {
   font-size: 0.8rem;
   text-transform: uppercase;
-  font-family: monospace;
-  color: lightgreen;
+  font-family: 'OratorStd' monospace;
+  color: rgb(37, 20, 77);
 }
 .main-article .more, .page-article .more, .post .more {
   text-decoration: none;
-  color: lightgreen;
+  color: rgb(37, 20, 77);
 }
 
 img.post-image, img.page-img {
@@ -934,12 +937,13 @@ img.post-image, img.page-img {
   text-align: center;
 }
 .pagination a.next, .pagination a.previous {
+  font-family: 'OratorStd', monospace;
   padding: 1rem 2.5rem;
-  color: white;
+  color: rgb(255, 189, 11);
   text-transform: uppercase;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.3);
   text-decoration: none;
-  background: #15F3A8;
+  background: rgb(37, 20, 77);
   -webkit-transition: all .35s;
   transition: all .35s;
 }
@@ -947,10 +951,11 @@ img.post-image, img.page-img {
   box-shadow: none;
 }
 .pagination span.next, .pagination span.previous {
+  font-family: 'OratorStd', monospace;
   text-transform: uppercase;
-  color: white;
+  color: #fff;
   padding: 1rem 2.5rem;
-  background: #ccc;
+  background: rgb(244, 230, 182);
 }
 
 .form {
